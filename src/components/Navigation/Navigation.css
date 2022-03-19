@@ -1,0 +1,23 @@
+
+#navbar {
+    background-color: rgb(36, 65, 128);
+}
+
+#basic-nav-dropdown{
+    color: white;
+}
+
+#background {
+    background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url("./image/background.jpg");
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 18rem;
+}
+
+#category-btn{
+    background: transparent;
+    border: none;
+}
+
+

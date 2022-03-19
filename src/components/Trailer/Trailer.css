@@ -1,0 +1,33 @@
+#modal-body{
+    background-color: black;
+    height: 430px;
+}
+#modal-header{
+    background-color: black;
+}
+
+#button-trailer button{
+    background-color: transparent;
+    border: none;
+    
+}
+#button-trailer i {
+    color: rgba(255, 255, 255, 0.205);
+    font-size: 1.8rem;
+    
+}
+
+#button-trailer i:hover {
+    color: rgba(255, 255, 255, 0.445);
+}
+
+.trailer-h {
+    color: rgb(160, 159, 158);
+}
+
+@media only screen and (max-width: 992px) {
+    #trailer-video{
+        width: 500px;
+    }
+}
+

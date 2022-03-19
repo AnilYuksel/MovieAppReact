@@ -1,0 +1,251 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Hancock",
+      "categoryId":1,
+      "overview":"Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
+      "rating": 6.3,
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+      "date": "07/01/2008",
+      "director":"Peter Berg",
+      "trailer":"https://www.youtube.com/embed/SkX1VuXLRSc"
+    },
+    {
+      "id": 2,
+      "categoryId":2,
+      "name": "Fury",
+      "rating": 7.5,
+      "overview":"In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "date": "10/17/2014",
+      "director":"David Ayer",
+      "trailer":"https://www.youtube.com/embed/DNHuK1rteF4"
+    },
+    {
+      "id": 3,
+      "categoryId":1,
+      "name": "Spider-Man",
+      "rating": 7.2,
+      "overview":"After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+      "date": "05/03/2002",
+      "director":"Sam Raimi",
+      "trailer":"https://www.youtube.com/embed/TYMMOjBUPMM"
+    },
+    {
+      "id": 4,
+      "categoryId":2,
+      "name": "Wild Indian",
+      "rating": 6.7,
+      "overview":"The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/yhOpkNvgW1ZzmEpR4iqxKwKKShL.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhOpkNvgW1ZzmEpR4iqxKwKKShL.jpg",
+      "date": "11/04/2021",
+      "director":"Lyle Mitchell Corbine Jr.",
+      "trailer":"https://www.youtube.com/embed/ou6hNBf8FKI"
+    },
+    {
+      "id": 5,
+      "categoryId":3,
+      "name": "The Matrix Resurrections",
+      "rating": 6.8,
+      "overview":"Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "date": "12/22/2021",
+      "director":"Lana Wachowski",
+      "trailer":"https://www.youtube.com/embed/9ix7TUGVYIo"
+    },
+    {
+      "id": 6,
+      "categoryId":3,
+      "name": "Venom: Let There Be Carnage",
+      "rating": 7.1,
+      "overview":"After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+      "date": "10/01/2021",
+      "director":"Andy Serkis",
+      "trailer":"https://www.youtube.com/embed/-FmWuCgJmxo"
+    },
+    {
+      "id": 7,
+      "categoryId":4,
+      "name": "Tom and Jerry: Cowboy Up!",
+      "rating": 7.3,
+      "overview":"This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+      "date": "01/25/2022",
+      "director":"Darrell Van Citters",
+      "trailer":"https://www.youtube.com/embed/s5iqJVzhb3Q"
+    },
+    {
+      "id": 8,
+      "categoryId":5,
+      "name": "Parasite",
+      "rating": 8.5,
+      "overview":"All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "date": "May 30.2019",
+      "director":"Bong Joon-ho",
+      "trailer":"https://www.youtube.com/embed/isOGD_7hNIY"
+    },
+    {
+      "id": 9,
+      "categoryId":2,
+      "name": "Chernobyl: Abyss",
+      "rating": 6.3,
+      "overview":"The aftermath of a shocking explosion at the Chernobyl nuclear power station made hundreds of people sacrifice their lives to clean up the site of the catastrophe and to successfully prevent an even bigger disaster that could have turned a large part of the European continent into an uninhabitable exclusion zone. This is their story.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+      "date": "04/15/2021",
+      "director":"Danila Kozlovsky",
+      "trailer":"https://www.youtube.com/embed/F9-lVnnbFlo"
+    },
+    {
+      "id": 10,
+      "categoryId":1,
+      "name": "Spider-Man 3",
+      "rating": 6.3,
+      "overview":"The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "date": "05/03/2007",
+      "director":"Sam Raimi",
+      "trailer":"https://www.youtube.com/embed/wPosLpgMtTY"
+    },
+    {
+      "id": 11,
+      "categoryId":6,
+      "name": "The Twilight Saga: Eclipse",
+      "rating": 6.3,
+      "overview":"Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg",
+      "date": "06/23/2010",
+      "director":"David Slade",
+      "trailer":"https://www.youtube.com/embed/kX2DKZcDM-o"
+    },
+    {
+      "id": 12,
+      "categoryId":7,
+      "name": "Dragon Fury",
+      "rating": 6.3,
+      "overview":"A group of soldiers are taken to the mountains of Wales to investigate a strange looking monster.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg",
+      "date": "06/15/2021",
+      "director":"Scott Jeffrey",
+      "trailer":"https://www.youtube.com/embed/kp_iCBrjeKA"
+    },
+    {
+      "id": 13,
+      "categoryId":6,
+      "name": "Ghostbusters: Afterlife",
+      "rating": 7.7,
+      "overview":"When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+      "date": "11/19/2021",
+      "director":"Jason Reitman",
+      "trailer":"https://www.youtube.com/embed/ahZFCF--uRY"
+    },
+    {
+      "id": 14,
+      "categoryId":1,
+      "name": "Eternals",
+      "rating": 7.2,
+      "overview":"The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+      "date": "11/05/2021",
+      "director":"Chloé Zhao",
+      "trailer":"https://www.youtube.com/embed/x_me3xsvDgk"
+    },
+    {
+      "id": 15,
+      "categoryId":4,
+      "name": "The Ice Age Adventures of Buck Wild",
+      "rating": 7.3,
+      "overview":"The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
+      "date": "01/28/2022",
+      "director":"John C. Donkin",
+      "trailer":"https://www.youtube.com/embed/0U0L4uT0btQ"
+    },
+    {
+      "id": 16,
+      "categoryId":1,
+      "name": "Reacher",
+      "rating": 8.7,
+      "overview":"Jack Reacher was arrested for murder and now the police need his help. Based on the books by Lee Child.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
+      "date": "02/02/2022",
+      "director":"Nick Santora",
+      "trailer":"https://www.youtube.com/embed/GSycMV-_Csw"
+    },
+    {
+      "id": 17,
+      "categoryId":3,
+      "name": "Dune",
+      "rating": 7.9,
+      "overview":"Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "date": "10/22/2021",
+      "director":"Denis Villeneuve",
+      "trailer":"https://www.youtube.com/embed/8g18jFHCLXk"
+    },{
+      "id": 18,
+      "categoryId":7,
+      "name": "Queen of Spades",
+      "rating": 6.4,
+      "overview":"According to legend, an ominous entity known as the Queen of Spades can be summoned by performing an ancient ritual. Four teenagers summon the Queen of Spades, but they could never imagine the horrors that await them.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
+      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
+      "date": "08/19/2021",
+      "director":"Patrick White",
+      "trailer":"https://www.youtube.com/embed/c3qKvgoLI8s"
+    }
+  ],
+  "categories":
+  [
+    {
+      "categoryId":1,
+      "name":"Action"
+    },
+    {
+      "categoryId":2,
+      "name":"Drama"
+    },
+    {
+      "categoryId":3,
+      "name":"Science Fiction"
+    },
+    {
+      "categoryId":4,
+      "name":"Animation"
+    },
+    {
+      "categoryId":5,
+      "name":"Comedy"
+    },
+    {
+      "categoryId":6,
+      "name":"Fantasy"
+    },
+    {
+      "categoryId":7,
+      "name":"Horror"
+    }
+  ]
+  
+}
