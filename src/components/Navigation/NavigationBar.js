@@ -2,6 +2,7 @@ import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap"
 import "./Navigation.css"
 import { useContext } from "react";
 import { MoviesContext } from "../../contextApi/MoviesContext";
+import { Link } from "react-router-dom";
 
 
 
@@ -12,11 +13,11 @@ const NavigationBar = () => {
     return (
         <Navbar id="navbar" variant="light" expand="lg">
             <Container className="my-2">
-                <Navbar.Brand href="#home"><i className="fa-solid fa-film text-white"> A B D B</i></Navbar.Brand>
+               <Link to="/"> <Navbar.Brand><i className="fa-solid fa-film text-white"> A B D B</i></Navbar.Brand></Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
-                        <Nav.Link href="#home" className="text-white">Home</Nav.Link>
+                       <Link to="/"> <Nav.Link className="text-white">Home</Nav.Link></Link>
                         <NavDropdown title="Categories" id="basic-nav-dropdown">
                             {categories.map((category) => (
                                 <NavDropdown.Item key={category.categoryId}><button id="category-btn" onClick={() => categorySort(category)}>{category.name}</button></NavDropdown.Item>
