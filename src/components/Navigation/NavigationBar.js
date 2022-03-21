@@ -17,7 +17,6 @@ const NavigationBar = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
-                       <Link to="/" className="text-white">Home</Link>
                         <NavDropdown title="Categories" id="basic-nav-dropdown">
                             {categories.map((category) => (
                                 <NavDropdown.Item key={category.categoryId}><button id="category-btn" onClick={() => categorySort(category)}>{category.name}</button></NavDropdown.Item>
