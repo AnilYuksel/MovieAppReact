@@ -23,7 +23,7 @@ const NavigationBar = () => {
                                 <NavDropdown.Item key={category.categoryId}><button id="category-btn" onClick={() => categorySort(category)}>{category.name}</button></NavDropdown.Item>
                             ))}
                             <NavDropdown.Divider />
-                            <NavDropdown.Item href="http://localhost:3001">All Movies</NavDropdown.Item>
+                            <NavDropdown.Item href="https://abdb-movie-app.netlify.app/">All Movies</NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
