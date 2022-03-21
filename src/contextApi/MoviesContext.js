@@ -10,7 +10,7 @@ const MoviesContextProvider = (props) => {
     }, [])
 
     const getMovies = async (categoryId) => {
-        let url = "https://my-json-server.typicode.com/AnilYuksel/db.json/movies"
+        let url = "https://my-json-server.typicode.com/AnilYuksel/moviesdb/movies"
         if (categoryId) {
             url += "/?categoryId=" + categoryId
         }
@@ -26,7 +26,7 @@ const MoviesContextProvider = (props) => {
     },[])
 
     const getCategories = async () => {
-        let url = "ttps://my-json-server.typicode.com/AnilYuksel/db.json/categories"
+        let url = "https://my-json-server.typicode.com/AnilYuksel/moviesdb/categories"
         const result = await fetch(url)
         const data = await result.json(url)
         setCategories(data)
